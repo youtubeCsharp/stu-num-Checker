@@ -1,0 +1,16 @@
+# 隐私与大文件，永不上传
+known/
+test/
+output/
+roster.txt
+known_faces.pkl
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统
+Thumbs.db
+.DS_Store

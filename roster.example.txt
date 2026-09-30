@@ -1,0 +1,5 @@
+# 每行一个姓名，UTF-8 编码。
+# 复制本文件为 roster.txt 后填写实际名单；roster.txt 已在 .gitignore 中，不会上传。
+# 张三
+# 李四
+# 王五
